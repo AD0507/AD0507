@@ -5,7 +5,7 @@
 - 💡 Expertise in **Azure**, **AWS**, **Python**, **SQL**, and **Apache Spark**, with a focus on creating scalable and secure data pipelines.
 - 💬 Ask me about **Data Engineering**, **Data Science**, **Machine Learning**, **Big Data**, and **Cloud Technologies**.
 - 📫 Reach out to me at **adas14@syr.edu** or  connect with me on **[LinkedIn](https://linkedin.com/in/arunavadas005)**.
-- 
+  
 
 <h3 align="left">Work Experience:</h3>
 <ul>
