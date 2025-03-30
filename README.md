@@ -1,32 +1,72 @@
 <h1 align="center">Hi 👋, I'm Arunava Das</h1>
 <h3 align="center">
-🚀 Actively seeking full-time opportunities in <b>Data Engineering</b>, <b>Data Science</b>, <b>Machine Learning</b>, and <b>Data Analytics</b> domains. </h3>
+🚀 Actively seeking full-time opportunities in <b>Data Engineering</b>, <b>Data Science</b>, <b>Machine Learning</b>, and <b>Data Analytics</b> domains.
+</h3>
 
-- 💡 Expertise in **Azure**, **AWS**, **Python**, **SQL**, **Machine Learning**, **Deep Learning**, **Data Engineering**, **Data Science** and **Apache Spark**, with a focus on creating scalable and secure data pipelines.
-- 💬 Ask me about **Data Engineering**, **Data Science**, **Machine Learning**, **Big Data**, and **Cloud Technologies**.
-- 📫 Reach out to me at **adas14@syr.edu** or  connect with me on **[LinkedIn](https://linkedin.com/in/arunavadas005)**.
-  
+- 💡 Expertise in **Azure**, **AWS**, **Python**, **SQL**, **Machine Learning**, **Deep Learning**, **Data Engineering**, **Data Science**, and **Apache Spark**, with a focus on creating scalable and secure data pipelines.  
+- 💬 Ask me about **Data Engineering**, **Data Science**, **Machine Learning**, **Big Data**, and **Cloud Technologies**.  
+- 📫 Reach out to me at **adas14@syr.edu** or connect with me on **[LinkedIn](https://linkedin.com/in/arunavadas005)**.  
 
-<h3 align="left">Work Experience:</h3>
-<ul>
-  <li><b>Micron Technology</b> – Internship from  May 2024 to Aug 2024 at Boise, Idaho </li>
-   <li><b>Deloitte Consulting</b> – Fulltime from March 2021 to July 2023 at Bengaluru, India </li>
-   <li><b>GE Healthcare</b> – Internship from Jan 2020 to July 2020 at Bengaluru, India </li>
-</ul>
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💼 Work Experience:
+- **Micron Technology** – Internship (May 2024 – Aug 2024) | Boise, Idaho  
+- **Deloitte Consulting** – Full-time (Mar 2021 – Jul 2023) | Bengaluru, India  
+- **GE Healthcare** – Internship (Jan 2020 – Jul 2020) | Bengaluru, India  
+
+---
+
+### 🔗 Connect with me:
 <p align="left">
-<a href="https://twitter.com/mr_noblebanter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_noblebanter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arunavadas005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunavadas005/" height="30" width="40" /></a>
-<a href="https://kaggle.com/ad0507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ad0507" height="30" width="40" /></a>
-<a href="https://instagram.com/arunava_das05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunava_das05" height="30" width="40" /></a>
+  <a href="https://twitter.com/mr_noblebanter" target="_blank">Twitter</a> • 
+  <a href="https://www.linkedin.com/in/arunavadas005/" target="_blank">LinkedIn</a> • 
+  <a href="https://kaggle.com/ad0507" target="_blank">Kaggle</a> • 
+  <a href="https://instagram.com/arunava_das05" target="_blank">Instagram</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power Bi" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="tableau" width="40" height="40"/> </a> 
+---
 
+### 🧠 Skills & Technologies
 
+#### 📊 Programming & Big Data
+Python, SQL, Scala, Apache Spark, Pandas, NumPy, scikit-learn, R, C++, Java, DAX, Power Query (M)
 
+#### ☁️ Cloud Technologies
+**Azure** (Data Factory, Synapse, Data Lake, Azure SQL DB, Azure ML)  
+**AWS** (Glue, Lambda, Redshift, Athena, EMR, Kinesis, Sagemaker) 
+**GCP** (BigQuery, Dataflow, Pub/Sub, Data Fusion, Datastore, Looker, Vertex AI)
+
+#### 🗄️ Databases & Storage
+PostgreSQL, MS SQL Server, MongoDB, Cassandra, S3, Cosmos DB, S3, Data Lake, Lakehouse
+
+#### 🔁 ETL & Data Pipelines
+Airflow, dbt (Data Build Tool), Hive, Kafka, Iceberg, ETL/ELT, Confluent, ElasticSearch, Flink
+
+#### 📊 BI & Visualization Tools
+Power BI, Tableau, Kibana
+
+#### 🛠️ Tools & Platforms
+Terraform, Kubernetes, Docker, CloudFormation, Databricks, Git, GitHub, MLflow, CI/CD, Snowflake
+
+#### 📈 Data Analytics & Business Intelligence
+Data Modeling, Feature Engineering, Data Cleaning, Statistics, KPI Development, Dashboards, Ad hoc Reporting, Data Warehousing
+
+#### 🤖 Machine Learning & AI
+Regression, Classification, Clustering, Random Forest, Decision Trees, Time Series Forecasting,  
+TensorFlow, PyTorch, Keras, CNNs, Autoencoders, Transformers, NLTK, NLP, Deep Learning, Gen AI
+
+#### 📊 Statistical Analysis
+A/B Testing, Hypothesis Testing, Bayesian Optimization, Forecasting, Dimensionality Reduction (PCA, t-SNE)
+
+---
+
+### 📜 Certifications
+- Microsoft Certified: Azure Data Engineer Associate  
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified Machine Learning – Specialty  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ad0507&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ad0507&show_icons=true&locale=en&layout=compact" alt="ad0507" /></p>
