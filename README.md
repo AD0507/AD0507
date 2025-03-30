@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm Arunava Das</h1>
 <h3 align="center">
-🚀 Actively seeking full-time opportunities in <b>Data Engineering</b>, <b>Data Science</b>, <b>Machine Learning</b>, and <b>Data Analytics</b> domains.
-</h3>
+🚀 Actively seeking full-time opportunities in <b>Data Engineering</b>, <b>Data Science</b>, <b>Machine Learning</b>, and <b>Data Analytics</b> domains. </h3>
 
-- 💡 Expertise in **Azure**, **AWS**, **Python**, **SQL**, **Machine Learning**, **Deep Learning**, **Data Engineering**, **Data Science**, and **Apache Spark**, with a focus on creating scalable and secure data pipelines.  
-- 💬 Ask me about **Data Engineering**, **Data Science**, **Machine Learning**, **Big Data**, and **Cloud Technologies**.  
-- 📫 Reach out to me at **adas14@syr.edu** or connect with me on **[LinkedIn](https://linkedin.com/in/arunavadas005)**.  
+- 💡 Expertise in **Azure**, **AWS**, **Python**, **SQL**, **Machine Learning**, **Deep Learning**, **Data Engineering**, **Data Science** and **Apache Spark**, with a focus on creating scalable and secure data pipelines.
+- 💬 Ask me about **Data Engineering**, **Data Science**, **Machine Learning**, **Big Data**, and **Cloud Technologies**.
+- 📫 Reach out to me at **adas14@syr.edu** or  connect with me on **[LinkedIn](https://linkedin.com/in/arunavadas005)**.
+  
 
----
+<h3 align="left">Work Experience:</h3>
+<ul>
+  <li><b>Micron Technology</b> – Internship from  May 2024 to Aug 2024 at Boise, Idaho </li>
+   <li><b>Deloitte Consulting</b> – Fulltime from March 2021 to July 2023 at Bengaluru, India </li>
+   <li><b>GE Healthcare</b> – Internship from Jan 2020 to July 2020 at Bengaluru, India </li>
+</ul>
 
-### 💼 Work Experience:
-- **Micron Technology** – Internship (May 2024 – Aug 2024) | Boise, Idaho  
-- **Deloitte Consulting** – Full-time (Mar 2021 – Jul 2023) | Bengaluru, India  
-- **GE Healthcare** – Internship (Jan 2020 – Jul 2020) | Bengaluru, India  
-
----
-
-### 🔗 Connect with me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/mr_noblebanter" target="_blank">Twitter</a> • 
-  <a href="https://www.linkedin.com/in/arunavadas005/" target="_blank">LinkedIn</a> • 
-  <a href="https://kaggle.com/ad0507" target="_blank">Kaggle</a> • 
-  <a href="https://instagram.com/arunava_das05" target="_blank">Instagram</a>
+<a href="https://twitter.com/mr_noblebanter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_noblebanter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arunavadas005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arunavadas005/" height="30" width="40" /></a>
+<a href="https://kaggle.com/ad0507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ad0507" height="30" width="40" /></a>
+<a href="https://instagram.com/arunava_das05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arunava_das05" height="30" width="40" /></a>
 </p>
 
 ---
