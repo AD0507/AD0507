@@ -2,7 +2,7 @@
 <h3 align="center">
 🚀 Actively seeking full-time opportunities in <b>Data Engineering</b>, <b>Data Science</b>, <b>Machine Learning</b>, and <b>Data Analytics</b> domains. </h3>
 
-- 💡 Expertise in **Azure**, **GCP**, **Python**, **SQL**, **Data Analytics**, **Business Intelligence**, **Data Engineering**, **Tableau and Power Bi** and **Apache Spark**, with a focus on creating scalable and secure data pipelines.
+- 💡 Expertise in **Azure**, **GCP**, **Python**, **SQL**, **Data Analytics**, **Business Intelligence**, **Data Engineering**, **Tableau**, **Power Bi** and **Apache Spark**, with a focus on creating scalable and secure data pipelines.
 - 💬 Ask me about **Data Science**, **Machine Learning**, and **Cloud Technologies**.
 - 📫 Reach out to me at **adas14@syr.edu** or  connect with me on **[LinkedIn](https://linkedin.com/in/arunavadas005)**.
   
