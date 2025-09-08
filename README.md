@@ -9,10 +9,10 @@
 
 <h3 align="left">Work Experience:</h3>
 <ul>
+  <li><b>Northern Trust</b> – Contract from  April 2025 to Present </li>
   <li><b>Micron Technology</b> – Internship from  May 2024 to Aug 2024 at Boise, Idaho </li>
-   <li><b>Deloitte Consulting</b> – Fulltime from March 2021 to July 2023 at Bengaluru, India </li>
-   <li><b>Cognizant Technology</b> – Fulltime from July 2020 to March 2021 at Bengaluru, India </li>
-   <li><b>GE Healthcare</b> – Internship from Jan 2020 to June 2020 at Bengaluru, India </li>
+   <li><b>Deloitte Consulting</b> – Fulltime from March 2021 to July 2023 </li>
+   <li><b>Hexaware Technologies</b> – Fulltime from January 2020 to March 2021</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
