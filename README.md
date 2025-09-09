@@ -25,37 +25,30 @@
 
 ---
 
-### 🧠 Skills & Technologies
+### Skills & Technologies
+#### Programming & Scripting: 
+Python (Pandas, NumPy, PySpark), Java, Scala, Shell Scripting, SQL
 
-#### 📊 Programming & Big Data
-Python, SQL, Scala, Apache Spark, Pandas, NumPy, scikit-learn, R, C++, Java, DAX, Power Query (M)
+#### ETL & Data Integration: 
+Apache NiFi, Talend, Fivetran, Apache Airflow, Apache Beam
 
-#### ☁️ Cloud Technologies
-**Azure** (Data Factory, Synapse, Data Lake, Azure SQL DB, Azure ML)  
-**AWS** (Glue, Lambda, Redshift, Athena, EMR, Kinesis, Sagemaker) 
-**GCP** (BigQuery, Dataflow, Pub/Sub, Data Fusion, Datastore, Looker, Vertex AI)
+#### Big Data Technologies: 
+Hadoop, Apache Spark, Hive, Kafka, Snowflake, Dbt, Databricks
 
-#### 🗄️ Databases & Storage
-PostgreSQL, MS SQL Server, MongoDB, Cassandra, S3, Cosmos DB, S3, Data Lake, Lakehouse
+#### Databases & Warehousing: 
+Google Big Query, Amazon Redshift, Snowflake, MySQL, PostgreSQL, MongoDB
 
-#### 🔁 ETL & Data Pipelines
-Airflow, dbt (Data Build Tool), Hive, Kafka, Iceberg, ETL/ELT, Confluent, ElasticSearch, Flink
+#### Cloud Platforms: 
+AWS (S3, Lambda, EMR, Glue, Lambda, Athena), GCP (Dataflow, BigQuery, Pub/Sub, Dataproc), Azure (Data Lake, Synapse, Data Factory)
 
-#### 📊 BI & Visualization Tools
-Power BI, Tableau, Kibana
+#### Data Visualization & BI: 
+Tableau, Power BI, Looker, Google Data Studio, Excel
 
-#### 🛠️ Tools & Platforms
-Terraform, Kubernetes, Docker, CloudFormation, Databricks, Git, GitHub, MLflow, CI/CD, Snowflake
+#### Machine Learning & Analytics: 
+TensorFlow, Scikit-learn, Predictive Modeling, Statistical Analysis, AB Testing
 
-#### 📈 Data Analytics & Business Intelligence
-Data Modeling, Feature Engineering, Data Cleaning, Statistics, KPI Development, Dashboards, Ad hoc Reporting, Data Warehousing
-
-#### 🤖 Machine Learning & AI
-Regression, Classification, Clustering, Random Forest, Decision Trees, Time Series Forecasting,  
-TensorFlow, PyTorch, Keras, CNNs, Autoencoders, Transformers, NLTK, NLP, Deep Learning, Gen AI
-
-#### 📊 Statistical Analysis
-A/B Testing, Hypothesis Testing, Bayesian Optimization, Forecasting, Dimensionality Reduction (PCA, t-SNE)
+#### Version Control & DevOps: 
+Git, Jenkins, Docker, Kubernetes, CI/CD Pipelines
 
 ---
 
