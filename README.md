@@ -2,13 +2,14 @@
 <h3 align="center">
 🚀 Actively seeking full-time opportunities in <b>Data Engineering</b>, <b>Business Intelligence</b>, and <b>Data Analytics</b> domains. </h3>
 
-- 💡 Expertise in **Azure**, **GCP**, **Python**, **SQL**, **Data Analytics**, **Business Intelligence**, **Data Engineering**, **Tableau**, **Power Bi** and **Apache Spark**, with a focus on creating scalable and secure data pipelines.
+- 💡 Expertise in **Azure**, **GCP**, **AWS**, **Databricks**, **Python**, **SQL**, **Data Analytics**, **Business Intelligence**, **Data Engineering**, **Tableau**, **Power Bi** and **Apache Spark**, with a focus on creating scalable and secure data pipelines.
 - 💬 Ask me about **Data Science**, **Machine Learning**, and **Cloud Technologies**.
 - 📫 Connect with me on **[LinkedIn](https://linkedin.com/in/arunavadas005)**.
   
 
 <h3 align="left">Work Experience:</h3>
 <ul>
+  <li><b> Tata Elxsi (CLient: Comcast)</b> – Fulltime from  Oct 2025 to Present at Philadelphia, PA </li>
   <li><b>Micron Technology</b> – Internship from  May 2024 to Aug 2024 at Boise, Idaho </li>
    <li><b>Deloitte Consulting</b> – Fulltime from March 2021 to July 2023 </li>
    <li><b>Hexaware Technologies</b> – Fulltime from July 2020 to March 2021</li>
