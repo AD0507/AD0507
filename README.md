@@ -9,7 +9,7 @@
 
 <h3 align="left">Work Experience:</h3>
 <ul>
-  <li><b> Tata Elxsi (CLient: Comcast)</b> – Fulltime from  Oct 2025 to Present at Philadelphia, PA </li>
+  <li><b> Tata Elxsi (Client: Comcast)</b> – Fulltime from  Oct 2025 to Present at Philadelphia, PA </li>
   <li><b>Micron Technology</b> – Internship from  May 2024 to Aug 2024 at Boise, Idaho </li>
    <li><b>Deloitte Consulting</b> – Fulltime from March 2021 to July 2023 </li>
    <li><b>Hexaware Technologies</b> – Fulltime from July 2020 to March 2021</li>
