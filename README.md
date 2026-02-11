@@ -3,7 +3,7 @@
 🚀 Actively seeking full-time opportunities in <b>Data Engineering</b>, <b>Business Intelligence</b>, and <b>Data Analytics</b> domains. </h3>
 
 - 💡 Expertise in **Azure**, **GCP**, **AWS**, **Databricks**, **Python**, **SQL**, **Data Analytics**, **Business Intelligence**, **Data Engineering**, **Tableau**, **Power Bi** and **Apache Spark**, with a focus on creating scalable and secure data pipelines.
-- 💬 Ask me about **Data Science**, **Machine Learning**, and **Cloud Technologies**.
+- 💬 Ask me about **Data Engineering**, **Machine Learning**, **Agentic AI**, and **Cloud Technologies**.
 - 📫 Connect with me on **[LinkedIn](https://linkedin.com/in/arunavadas005)**.
   
 
